@@ -1,2 +1,12 @@
-# Sliding_Login-SignUp_designpage<img width="907" alt="Screenshot 2<img width="872" alt="Screenshot 2022-04-24 235851" src="https://user-images.githubusercontent.com/80118217/164989989-a6388800-eab4-4209-a7b0-c801ce954dc4.png">
-022-04-24 235826" src="https://user-images.githubusercontent.com/80118217/164989968-b24e6942-045c-45dc-8ca2-5d8355a5cbe0.png">
+## Output
+
+## Sign-UP
+
+
+
+<img width="800" alt="Screenshot 2022-04-24 235826" src="https://user-images.githubusercontent.com/80118217/164990087-6ae9f736-3164-4c25-bb04-bb90fb40fb56.png">
+
+## Sign-In
+
+
+<img width="800" alt="Screenshot 2022-04-24 235851" src="https://user-images.githubusercontent.com/80118217/164990123-e178c15b-de93-4187-8375-cbf8bc2b7f0f.png">
